@@ -1,82 +1,81 @@
+---
+# 💬 Tweet Sentiment Analyzer with Transformers
+
+This mini app lets you *analyze the sentiment of any tweet or short text* using Hugging Face's Transformers — all wrapped in a clean Streamlit web app!
 
 ---
 
-✅ Tweet_Sentiment_Analysis/README.md
+## 🔍 What It Does
 
-# 💬 Tweet Sentiment Analysis
+You can type or paste any tweet, and this app will tell you whether the sentiment is:
+- ✅ *Positive*
+- ⚠ *Neutral*
+- ❌ *Negative*
 
-This project is a simple web app built with *Streamlit* that uses a *pretrained transformer model* from Hugging Face to classify the sentiment of tweets or short text as *Positive* or *Negative*.
-
----
-
-## 🚀 Features
-- Uses distilbert-base-uncased-finetuned-sst-2-english for sentiment analysis
-- Clean and interactive Streamlit UI
-- Displays prediction label and confidence score
-- Easy to deploy on Streamlit Cloud
+Behind the scenes, it's powered by the distilbert-base-uncased-finetuned-sst-2-english model.
 
 ---
 
-## 🛠 Tech Stack
-- Python 🐍
-- Streamlit 📊
-- Hugging Face Transformers 🤗
+## 🌐 Live App
+
+👉 *Try it here:*  
+[https://your-app-name.streamlit.app](https://nlp-transformersprojects-mvcfyfyyhxlqryjffn6mgd.streamlit.app/)
 
 ---
 
-## 📦 Installation
+## ⚙ How to Run Locally
 
-```bash
-# Clone the repository (if you haven't)
-git clone https://github.com/Aparna10010/NLP-Transformers.git
-cd NLP-Transformers/Tweet_Sentiment_Analysis
+1. Clone this repo:
+   bash
+   git clone https://github.com/Aparna10010/NLP-Transformers_Projects.git
+   cd NLP-Transformers_Projects/project1_tweet_sentiment
 
-# Install dependencies
+2. Install dependencies:
+
 pip install -r requirements.txt
 
 
----
-
-▶ How to Run the App
+3. Run the Streamlit app:
 
 streamlit run app.py
 
-The app will open in your browser at http://localhost:8501/.
-
-
----
-
-🌐 Live Deployment (Optional)
-
-You can deploy this on Streamlit Cloud by connecting this folder to your GitHub account and selecting app.py as the entry point.
-
-
----
-
-📄 Example Output
-
-> Input:
-
-I absolutely loved the new Spider-Man movie!
-
-
-
-> Output:
-
-Sentiment: POSITIVE
-
-Confidence: 99.87%
-
-
 
 
 
 ---
 
-🙌 Author
+📦 Tech Stack
 
-Aparna Sharmaa
-Project under NLP-Transformers repo
+Streamlit – for the interactive UI
+
+Transformers – for loading the sentiment analysis model
+
+Hugging Face Pipeline – to keep it simple and powerful
+
+
 
 ---
+
+🧠 Why This Project?
+
+As part of my NLP learning journey, I wanted to:
+
+Practice building apps using Hugging Face Transformers
+
+Deploy real-world mini projects using Streamlit
+
+Learn how to host ML apps publicly
+
+
+
+---
+
+🤝 Let's Connect
+
+If you liked this, feel free to connect or give a ⭐ to the repo!
+I'm sharing more projects here: @Aparna10010
+
+
+---
+
 
