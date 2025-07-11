@@ -3,8 +3,8 @@ import streamlit as st
 from transformers import pipeline
 
 # Load vectorizer and model
-vectorizer = joblib.load("tf-idf_vectorizer.pkl")
-model = joblib.load("spam_model.pkl")
+vectorizer = joblib.load("project3_email_spam_detection/tf-idf_vectorizer.pkl")
+model = joblib.load("project3_email_spam_detection/spam_model.pkl")
 
 # Load Zero-Shot Classification pipeline
 cls = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
