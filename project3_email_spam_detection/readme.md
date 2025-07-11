@@ -27,11 +27,12 @@ Both approaches are integrated into a single Streamlit app for a smooth user exp
 ## 📂 Project Structure
 
 project3_email_spam_detection/
-├── app.py                 # Streamlit app script
+├── app.py                 # Streamlit application script
 ├── requirements.txt       # List of Python dependencies
-├── spam_model.pkl         # Pre-trained machine learning model (pickle file)
-├── tf-idf_vectorizer.pkl  # Saved TF-IDF vectorizer (pickle file)
-└── README.md              # Project documentation
+├── spam_model.pkl         # Pre-trained spam detection model (pickle file)
+├── tf-idf_vectorizer.pkl  # Saved TF-IDF vectorizer used during training
+└── README.md              # Project documentation and usage instructions
+
 
 
 ---
