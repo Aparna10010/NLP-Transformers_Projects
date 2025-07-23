@@ -10,7 +10,7 @@ An AI-powered blog writing assistant that generates titles, summaries, and full 
 🚀 Live Demo
 
 🔗 Try it here: Gradio App
-[https://d6d46721103b06cf2f.gradio.live/]
+![https://d6d46721103b06cf2f.gradio.live/]
 
 
 ---
