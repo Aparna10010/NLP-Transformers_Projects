@@ -1,4 +1,3 @@
-Your project README content looks well-organized and clear! Below is a polished and ready-to-paste version with some light formatting enhancements, Markdown fixes, and link adjustments for better readability and consistency.
 
 ---
 
@@ -107,5 +106,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-Let me know if you'd like to convert this into a GitHub README file or need a version with embedded badges (stars, forks, license, etc.).
 
