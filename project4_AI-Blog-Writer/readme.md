@@ -96,7 +96,7 @@ python ai_blog_writer.py
 
 **Aparna Sharmaa**
 *Data Science Enthusiast | NLP Learner*
-[GitHub](https://github.com/Aparna10010) • [LinkedIn](#)
+[GitHub](https://github.com/Aparna10010) • [LinkedIn](https://www.linkedin.com/in/apsh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
